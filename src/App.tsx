@@ -71,6 +71,46 @@ function App(): React.ReactElement {
               Chat Messanger
             </div>
           </Link>
+          <Link to="/profile-plus-feed">
+            <div className="p-2 border rounded bg-amber-100">
+              Profile Plus Feed
+            </div>
+          </Link>
+          <Link to="/search-results">
+            <div className="p-2 border rounded bg-amber-100">
+              Search Results
+            </div>
+          </Link>
+          <Link to="/video-player">
+            <div className="p-2 border rounded bg-amber-100">
+              Video Player
+            </div>
+          </Link>
+          <Link to="/e-commerce-pdp">
+            <div className="p-2 border rounded bg-amber-100">
+              E-Commerce PDP
+            </div>
+          </Link>
+          <Link to="/live-score">
+            <div className="p-2 border rounded bg-amber-100">
+              Live Score
+            </div>
+          </Link>
+          <Link to="/settings-page">
+            <div className="p-2 border rounded bg-amber-100">
+              Settings Page
+            </div>
+          </Link>
+          <Link to="/calendar">
+            <div className="p-2 border rounded bg-amber-100">
+              Calendar
+            </div>
+          </Link>
+          <Link to="/form-builder">
+            <div className="p-2 border rounded bg-amber-100">
+              Form Builder
+            </div>
+          </Link>
           <div></div>
         </div>
       </div>

@@ -11,6 +11,14 @@ import CRMRecordTable from './pages/CRMRecordTable/CRMRecordTable.tsx';
 import DataTable from './pages/DataTable/DataTable.tsx';
 import KanbanBoard from './pages/KanbanBoard/KanbanBoard.tsx';
 import ChatMessanger from './pages/ChatMessanger/ChatMessanger.tsx';
+import ProfilePlusFeed from './pages/ProfilePlusFeed/ProfilePlusFeed.tsx';
+import SearchResults from './pages/SearchResults/SearchResults.tsx';
+import VideoPlayer from './pages/VideoPlayer/VideoPlayer.tsx';
+import ECommercePDP from './pages/ECommercePDP/ECommercePDP.tsx';
+import LiveScore from './pages/LiveScore/LiveScore.tsx';
+import SettingsPage from './pages/SettingsPage/SettingsPage.tsx';
+import Calendar from './pages/Calendar/Calendar.tsx';
+import FormBuilder from './pages/FormBuilder/FormBuilder.tsx';
 
 const router = createBrowserRouter([
   {
@@ -52,6 +60,38 @@ const router = createBrowserRouter([
   {
     path: "/chat-messanger",
     Component: ChatMessanger,
+  },
+  {
+    path: "/profile-plus-feed",
+    Component: ProfilePlusFeed,
+  },
+  {
+    path: "/search-results",
+    Component: SearchResults,
+  },
+  {
+    path: "/video-player",
+    Component: VideoPlayer,
+  },
+  {
+    path: "/e-commerce-pdp",
+    Component: ECommercePDP,
+  },
+  {
+    path: "/live-score",
+    Component: LiveScore,
+  },
+  {
+    path: "/settings-page",
+    Component: SettingsPage,
+  },
+  {
+    path: "/calendar",
+    Component: Calendar,
+  },
+  {
+    path: "/form-builder",
+    Component: FormBuilder,
   },
 ])
 

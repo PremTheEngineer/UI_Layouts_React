@@ -1,4 +1,3 @@
-import React from "react";
 import BoxRounded from "../../../components/BoxRounded";
 import BoxPill from "../../../components/BoxPill";
 import Avatar from "../../../components/Avatar";
