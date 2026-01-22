@@ -46,6 +46,31 @@ function App(): React.ReactElement {
               Map Plus List Split
             </div>
           </Link>
+          <Link to="/dashboard-kpi">
+            <div className="p-2 border rounded bg-amber-100">
+              Dashboard KPI
+            </div>
+          </Link>
+          <Link to="/crm-record-table">
+            <div className="p-2 border rounded bg-amber-100">
+              CRM Record Table
+            </div>
+          </Link>
+          <Link to="/data-table">
+            <div className="p-2 border rounded bg-amber-100">
+              Data Table
+            </div>
+          </Link>
+          <Link to="/kanban-board">
+            <div className="p-2 border rounded bg-amber-100">
+              Kanban Board
+            </div>
+          </Link>
+          <Link to="/chat-messanger">
+            <div className="p-2 border rounded bg-amber-100">
+              Chat Messanger
+            </div>
+          </Link>
           <div></div>
         </div>
       </div>
