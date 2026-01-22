@@ -1,4 +1,4 @@
-import React from "react";
+
 import RightFooter from "./RightFooter";
 import RightHeader from "./RightHeader";
 import Avatar from "../../../components/Avatar";

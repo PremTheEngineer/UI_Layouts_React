@@ -1,4 +1,4 @@
-import React from 'react'
+
 
 const BoxRounded = ({className=""}: {className?: string}) => {
   return (

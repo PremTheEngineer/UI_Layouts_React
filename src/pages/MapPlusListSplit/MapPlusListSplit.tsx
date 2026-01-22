@@ -1,5 +1,4 @@
-import React from "react";
-import BoxRounded from "../../components/BoxRounded";
+
 import Header from "./Components/Header";
 import LeftSection from "./Components/LeftSection";
 import RIghtSection from "./Components/RIghtSection";

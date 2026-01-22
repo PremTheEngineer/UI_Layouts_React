@@ -1,4 +1,4 @@
-import React from "react";
+
 import ListItemRight from "./ListItemRight";
 
 export default function Right() {

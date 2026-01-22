@@ -1,4 +1,4 @@
-import React from 'react'
+
 import BoxRounded from '../../../components/BoxRounded'
 
 export default function ListItem() {

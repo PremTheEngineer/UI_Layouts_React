@@ -30,7 +30,7 @@ const DashboardRight = () => {
           <div className="flex-1 bg-white rounded-xl border border-neutral-200 p-4 flex flex-col">
             <BoxRounded className="h-6 w-24 bg-neutral-200 rounded mb-4"></BoxRounded>
             <div className="flex-1 flex items-center justify-center">
-              <BoxRounded className="w-40 h-40 rounded-full border-[20px] border-neutral-200 border-t-neutral-900"></BoxRounded>
+              <BoxRounded className="w-40 h-40 rounded-full border-20 border-neutral-200 border-t-neutral-900"></BoxRounded>
             </div>
           </div>
         </div>

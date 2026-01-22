@@ -1,4 +1,4 @@
-import React from "react";
+
 import Avatar from "../../../components/Avatar";
 import BoxRounded from "../../../components/BoxRounded";
 

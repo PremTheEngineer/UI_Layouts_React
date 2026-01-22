@@ -1,4 +1,4 @@
-import React from 'react'
+
 import BoxRounded from '../../../components/BoxRounded'
 import BigGap from '../../../components/BigGap'
 

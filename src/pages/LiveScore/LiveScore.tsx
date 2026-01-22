@@ -1,4 +1,4 @@
-import React from "react";
+
 import Header1 from "./Components/Header1";
 import Header2 from "./Components/Header2";
 import Left from "./Components/Left";

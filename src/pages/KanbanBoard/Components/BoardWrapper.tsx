@@ -1,4 +1,4 @@
-import React from "react";
+
 import BoxRounded from "../../../components/BoxRounded";
 
 const BoardWrapper = ({ children }: { children: React.ReactNode }) => {

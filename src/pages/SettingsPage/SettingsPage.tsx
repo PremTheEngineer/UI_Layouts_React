@@ -1,4 +1,4 @@
-import React from "react";
+
 import Left from "./Components/Left";
 import Right from "./Components/Right";
 

@@ -1,4 +1,4 @@
-import React from 'react'
+
 
 const Avatar = ({className=""}: {className?: string}) => {
   return (

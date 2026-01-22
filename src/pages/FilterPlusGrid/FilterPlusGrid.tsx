@@ -1,7 +1,6 @@
-import React from "react";
+
 import Header from "./Components/Header";
 import LeftNav from "./Components/LeftNav";
-import BoxRounded from "../../components/BoxRounded";
 import MainContent from "./Components/MainContent";
 
 const FilterPlusGrid = () => {
